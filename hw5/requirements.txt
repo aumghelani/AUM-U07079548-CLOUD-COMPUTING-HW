@@ -1,0 +1,5 @@
+google-cloud-storage
+google-cloud-logging
+google-cloud-pubsub
+pymysql
+cryptography

@@ -1,1 +1,12 @@
 # AUM-U07079548-CLOUD-COMPUTING-HW
+
+HW1 - Done
+HW2 - Done
+HW3 - Done
+HW4 - Done
+HW5 - Done
+HW6 - Done
+HW7 -
+HW8 -
+HW9 -
+HW10 -

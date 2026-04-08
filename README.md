@@ -6,7 +6,7 @@ HW3 - Done
 HW4 - Done
 HW5 - Done
 HW6 - Done
-HW7 -
+HW7 - Done
 HW8 -
 HW9 -
 HW10 -

@@ -208,3 +208,10 @@ __marimo__/
 
 hw3/u0709548-aum-hw1-4a25a6a23ea3.json
 credentials.json
+
+# Claude Code memory/context
+.claude/
+
+# Word temp files
+~$*
+~WRL*

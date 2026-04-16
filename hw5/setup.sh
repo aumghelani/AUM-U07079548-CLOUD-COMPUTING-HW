@@ -26,8 +26,8 @@ PROJECT_ID="u0709548-aum-hw1"
 PROJECT_NUMBER=$(gcloud projects describe "${PROJECT_ID}" --format="value(projectNumber)")
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-REGION="us-central1"
-ZONE="us-central1-a"
+REGION="us-west1"
+ZONE="us-west1-b"
 
 BUCKET_NAME="aum-hw2-u07079548"
 FILE_PREFIX="hw2/"
@@ -53,7 +53,7 @@ SQL_TIER="db-n1-standard-1"
 DB_NAME="hw5db"
 DB_USER="hw5user"
 # Generate a random password if not already set
-DB_PASSWORD="aumcloudhw123"
+DB_PASSWORD="AumCloud528HW5xK9"
 
 # Cloud Function
 CF_NAME="stop-idle-db"

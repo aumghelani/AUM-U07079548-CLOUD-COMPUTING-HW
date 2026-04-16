@@ -12,8 +12,8 @@ set -e
 # ── HARDCODED project ID (same as setup.sh) ───────────────────────────────────
 PROJECT_ID="u0709548-aum-hw1"
 
-REGION="us-central1"
-ZONE="us-central1-a"
+REGION="us-west1"
+ZONE="us-west1-b"
 
 BUCKET_NAME="aum-hw2-u07079548"
 SCRIPTS_BUCKET="${BUCKET_NAME}"

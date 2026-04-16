@@ -19,7 +19,7 @@ DB_HOST     = os.environ.get("DB_HOST", "127.0.0.1")
 DB_PORT     = int(os.environ.get("DB_PORT", "3306"))
 DB_NAME     = os.environ.get("DB_NAME", "hw5db")
 DB_USER     = os.environ.get("DB_USER", "hw5user")
-DB_PASSWORD = os.environ.get("DB_PASSWORD", "aumcloudhw123")
+DB_PASSWORD = os.environ.get("DB_PASSWORD", "AumCloud528HW5xK9")
 
 
 def get_conn():

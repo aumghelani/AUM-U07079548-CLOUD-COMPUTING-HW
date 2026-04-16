@@ -18,7 +18,7 @@ Outputs:
 
 Usage:
     DB_HOST=127.0.0.1 DB_PORT=3306 DB_NAME=hw5db \
-    DB_USER=hw5user DB_PASSWORD=aumcloudhw123 \
+    DB_USER=hw5user DB_PASSWORD=AumCloud528HW5xK9 \
     BUCKET_NAME=aum-hw2-u07079548 \
     python3 models.py
 """
@@ -42,7 +42,7 @@ DB_HOST     = os.environ.get("DB_HOST", "127.0.0.1")
 DB_PORT     = int(os.environ.get("DB_PORT", "3306"))
 DB_NAME     = os.environ.get("DB_NAME", "hw5db")
 DB_USER     = os.environ.get("DB_USER", "hw5user")
-DB_PASSWORD = os.environ.get("DB_PASSWORD", "aumcloudhw123")
+DB_PASSWORD = os.environ.get("DB_PASSWORD", "AumCloud528HW5xK9")
 BUCKET_NAME = os.environ.get("BUCKET_NAME", "aum-hw2-u07079548")
 PROJECT_ID  = os.environ.get("PROJECT_ID", "u0709548-aum-hw1")
 

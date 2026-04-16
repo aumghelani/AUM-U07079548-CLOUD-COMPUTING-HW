@@ -30,7 +30,7 @@ BUCKET_NAME="aum-hw2-u07079548"
 SQL_INSTANCE="hw5-mysql"
 DB_NAME="hw5db"
 DB_USER="hw5user"
-DB_PASSWORD="aumcloudhw123"
+DB_PASSWORD="AumCloud528HW5xK9"
 
 # HW6 VM
 VM_NAME="hw6-ml-vm"

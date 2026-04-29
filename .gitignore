@@ -212,6 +212,12 @@ credentials.json
 # Claude Code memory/context
 .claude/
 
+# graphify knowledge graph output
+graphify-out/
+
 # Word temp files
 ~$*
 ~WRL*
+
+# HW lecture PDFs and presentations in Reference folders
+hw*/Reference/

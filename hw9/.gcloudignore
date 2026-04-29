@@ -1,0 +1,33 @@
+# What gcloud builds submit should NOT upload to Cloud Build.
+# Without this file, gcloud uploads everything in the current directory.
+
+# Docs / lectures / source PDFs
+Reference/
+*.pdf
+*.docx
+
+# Local rendered manifests + cached state
+.rendered/
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS junk
+.DS_Store
+.idea/
+.vscode/
+
+# Bash scripts not needed inside the container
+setup.sh
+cleanup.sh
+startup_*.sh
+
+# README / git
+README.md
+.git/
+.gitignore
+.gitattributes
+.dockerignore
+.gcloudignore
